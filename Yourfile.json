@@ -28,5 +28,11 @@
         "key": "WT",
         "expirydate": "25-10-2025",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1c58cabffdfdcf2e",
+        "key": "Ap",
+        "expirydate": "24-12-2029",
+        "Allowoffline": true
     }
 ]
